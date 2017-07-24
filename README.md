@@ -1,6 +1,6 @@
 ```
  npm init -y
- ```
+```
 
 ```
 npm install nodemon babel-cli babel-preset-es2015 babel-preset-stage-0 -y
