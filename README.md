@@ -1,6 +1,5 @@
 ```
  npm init -y
-
  ```
 
 ```
@@ -30,5 +29,7 @@ npm install body-parser --save
 ```
 
 ejs模板参考：
+
 [https://github.com/mde/ejs](https://github.com/mde/ejs)
+
 [https://segmentfault.com/a/1190000004286562](https://segmentfault.com/a/1190000004286562)
